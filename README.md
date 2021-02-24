@@ -2,7 +2,7 @@
 
 # 一、推荐界面效果图
 
-![](./recommend.png)
+![](https://github.com/seaSmileHuang/y.music/tree/main/images/recommend.png)
 
 * 使用iScroll实现手指拖动界面上下滚动，使用swiper实现轮播图，使用axios从后台获取数据并渲染
 
