@@ -8,7 +8,7 @@
 
 # 二、歌单详情界面效果图
 
-![](./detail.png)
+![](https://github.com/seaSmileHuang/y.music/tree/main/images/detail.png)
 
 * 手指向下滑动，图片变大
 
@@ -17,18 +17,18 @@
 # 三、播放界面效果图
 ## 1. 默认播放界面
 
-![](./defaultPlayer.png)
+![](https://github.com/seaSmileHuang/y.music/tree/main/images/defaultPlayer.png)
 
 * 实现歌曲的暂停、播放、上一首、下一首、切换播放模式
 
 ## 2. 列表播放器界面
 
-![](./listPlayer.png)
+![](https://github.com/seaSmileHuang/y.music/tree/main/images/listPlayer.png)
 
 * 实现歌曲的播放、暂停、删除、全部删除、切换播放模式
 
 ## 3. 迷你播放器界面
-![](./miniPlayer.png)
+![](https://github.com/seaSmileHuang/y.music/tree/main/images/miniPlayer.png)
 
 * 实现歌曲的播放、暂停、切换播放模式
 
